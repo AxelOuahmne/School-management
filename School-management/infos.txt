@@ -1,0 +1,23 @@
+composer create-project laravel/laravel  nom de projet
+
+delete views
+composer require --dev laravel/breeze
+php artisan breeze:install
+
+
+installation fontend
+npm init vite
+
+
+
+router frontend
+npm i react-router-dom
+
+lyouts  Outlet de  react-router-dom
+
+
+shadcn
+
+https://ui.shadcn.com/docs/installation/vite
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
